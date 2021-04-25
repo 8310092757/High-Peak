@@ -1,0 +1,51 @@
+Enter the number of employees
+4
+Enter the number of employees:4
+Here the goodies that are selected for selected for distribution are:
+Scale:4999
+Fitbit Plus:7980
+Microwave:9800 
+Alexa:9999
+
+
+And the difference between the chosen goodies wih highest price and the lowest price is:3121
+BUILD SUCCESSFUL (total time: 3 seconds)
+
+
+
+Enter the number of employees
+6
+Enter the number of employees:6
+Here the goodies that are selected for selected for distribution are:
+MI Band:999
+Sandwich Toster:2195
+Cult Pass:2799
+Scale:4999
+Fitbit Plus:7980
+Microwave:9800 
+
+
+And the difference between the chosen goodies wih highest price and the lowest price is:7804
+BUILD SUCCESSFUL (total time: 3 seconds)
+
+
+
+Enter the number of employees
+2
+Enter the number of employees:2
+Here the goodies that are selected for selected for distribution are:
+Fitbit Plus:7980
+Microwave:9800 
+
+
+And the difference between the chosen goodies wih highest price and the lowest price is:199
+BUILD SUCCESSFUL (total time: 4 seconds)
+
+
+
+
+
+
+
+
+
